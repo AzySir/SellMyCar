@@ -1,6 +1,6 @@
 # SellMyCar
 
-<h1>Design Guidelines</h1>
+<h2>Design Guidelines</h2>
 1. MVC <br />
 2. API Services<br />
 3. Persistence of Model to MySQL<br />
@@ -9,7 +9,7 @@
 6. IntelliJ / Eclipse<br />
 7. Git Repo<br />
 
-<h1>Requirements</h1>
+<h2>Requirements</h2>
 1. Add cars To fleet<br />
 2. Print 'All' cars In Fleet<br />
 3. Print 'Rented' Cars in Fleet<br />
